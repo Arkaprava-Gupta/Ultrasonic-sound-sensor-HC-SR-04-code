@@ -28,5 +28,5 @@ void loop() {
 
     Serial.print("DATA,TIMER,");
     Serial.println(distance );
-    stoopTime = millis();)
+    stopTime = millis();)
   }
